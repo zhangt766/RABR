@@ -4,20 +4,6 @@ This repository provides a reference implementation of **RABR** for bundle recom
 
 ---
 
-## Requirements
-
-- Python 3.8+
-- Required packages:
-  - numpy
-  - tqdm
-  - scikit-learn
-  - sentence-transformers
-  - openai (or compatible LLM API)
-
-Please install dependencies in your own environment.
-
----
-
 ## Files
 
 ```text
